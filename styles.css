@@ -1,25 +1,28 @@
-.sales
-{
-	color:#8b8b8bcc;
+.sales {
+	color: #8b8b8bcc;
 	font-size: 22px;
 }
 
-.mainText
-{
-	color:#46484c;
+.mainText {
+	color: #46484c;
 }
 
-h1{
+h1 {
 	color: #025157;
 	background-color: gainsboro;
 }
 
-button{
-	color:#fff;
+button {
+	color: #fff;
 	background-color: #025157;
 }
 
-body
-{
+body {
 	background-color: #fffbf7;
+}
+
+.header {
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
